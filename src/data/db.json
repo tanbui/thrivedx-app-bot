@@ -1,0 +1,382 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Cyber Security Analyst",
+      "position": "Cyber Security",
+      "company": "InfoTechSVP, LLC",
+      "city": "San Diego"
+    },
+    {
+      "id": 2,
+      "title": "REMOTE Mgr, Cyber Security - SOC Mgr",
+      "position": "Cyber Security",
+      "company": "City of Hope",
+      "city": "California•Remote"
+    },
+    {
+      "id": 3,
+      "title": "Senior Information Security Engineer",
+      "position": "Cyber Security",
+      "company": "MISSION FEDERAL CREDIT UNION",
+      "city": "San Diego"
+    },
+    {
+      "id": 4,
+      "title": "Sr Principal Cyber Info Systems Security Analyst",
+      "position": "Cyber Security",
+      "company": "Northrop Grumman",
+      "city": "San Diego"
+    },
+    {
+      "id": 5,
+      "title": "Cyber Information Systems Security Manager",
+      "position": "Cyber Security",
+      "company": "Northrop Grumman",
+      "city": "San Diego"
+    },
+    {
+      "id": 6,
+      "title": "Cyber Security Adjunct Instructor",
+      "position": "Cyber Security",
+      "company": "California Institute of Arts & Technology",
+      "city": "California•Remote"
+    },
+    {
+      "id": 7,
+      "title": "Special Agent: Cybersecurity/Technology",
+      "position": "Cyber Security",
+      "company": "Federal Bureau of Investigation",
+      "city": "San Francisco"
+    },
+    {
+      "id": 8,
+      "title": "REMOTE Mgr, Cyber Security - SOC Mgr",
+      "position": "Cyber Security",
+      "company": "City of Hope",
+      "city": "California•Remote"
+    },
+    {
+      "id": 9,
+      "title": "Security Officer Day-Shift - Social Networking Company",
+      "position": "Cyber Security",
+      "company": "Allied Universal",
+      "city": "San Francisco"
+    },
+    {
+      "id": 10,
+      "title": "Cyber Security Adjunct Instructor",
+      "position": "Cyber Security",
+      "company": "California Institute of Arts & Technology",
+      "city": "California•Remote"
+    },
+    {
+      "id": 11,
+      "title": "Information Security Analyst",
+      "position": "Cyber Security",
+      "company": "Curative Inc.",
+      "city": "California•Remote"
+    },
+    {
+      "id": 12,
+      "title": "Security Operations Manager",
+      "position": "Cyber Security",
+      "company": "SecureSpace",
+      "city": "California"
+    },
+    {
+      "id": 13,
+      "title": "REMOTE Mgr, Cyber Security - SOC Mgr",
+      "position": "Cyber Security",
+      "company": "City of Hope",
+      "city": "California•Remote"
+    },
+    {
+      "id": 14,
+      "title": "Cyber Security Adjunct Instructor",
+      "position": "Cyber Security",
+      "company": "California Institute of Arts & Technology",
+      "city": "California•Remote"
+    },
+    {
+      "id": 15,
+      "title": "IT Support Specialist (Cybersecurity/ Microsoft Office 365)",
+      "position": "Cyber Security",
+      "company": "#twiceasnice Recruiting",
+      "city": "Irvine"
+    },
+    {
+      "id": 16,
+      "title": "Remote IT Security Risk Analyst",
+      "position": "Cyber Security",
+      "company": "Kelly",
+      "city": "Irvine"
+    },
+    {
+      "id": 17,
+      "title": "Cisco Network Security Engineer",
+      "position": "Cyber Security",
+      "company": "CyberCoders",
+      "city": "Irvine"
+    },
+    {
+      "id": 18,
+      "title": "Information Security Engineer II",
+      "position": "Cyber Security",
+      "company": "Vaco",
+      "city": "Cypress"
+    },
+    {
+      "id": 19,
+      "title": "Remote - Senior Data Scientist (Shop)",
+      "position": "Data Science",
+      "company": "Shopify",
+      "city": "San Diego"
+    },
+    {
+      "id": 20,
+      "title": "Clinical Finance Associate Data Scientist (Remote)",
+      "position": "Data Science",
+      "company": "City of Hope",
+      "city": "California•Remote"
+    },
+    {
+      "id": 21,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "SAIC",
+      "city": "San Diego"
+    },
+    {
+      "id": 22,
+      "title": "Staff Data Scientist",
+      "position": "Data Science",
+      "company": "Intuit",
+      "city": "San Diego"
+    },
+    {
+      "id": 23,
+      "title": "AI/ML - Annotation Analyst, Chilean Spanish Language",
+      "position": "Data Science",
+      "company": "Apple",
+      "city": "San Diego"
+    },
+    {
+      "id": 24,
+      "title": "AI/ML - Annotation Analyst, Arabic Language",
+      "position": "Data Science",
+      "company": "Apple",
+      "city": "San Diego"
+    },
+    {
+      "id": 25,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "Warman O'Brien",
+      "city": "San Francisco"
+    },
+    {
+      "id": 26,
+      "title": "Data Scientist I, Product Analytics",
+      "position": "Data Science",
+      "company": "Tinder",
+      "city": "San Francisco"
+    },
+    {
+      "id": 27,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "Gap Inc.",
+      "city": "San Francisco"
+    },
+    {
+      "id": 28,
+      "title": "Staff Data Scientist, Virtual HQ",
+      "position": "Data Science",
+      "company": "Slack",
+      "city": "San Francisco"
+    },
+    {
+      "id": 29,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "Osair Technologies",
+      "city": "San Francisco"
+    },
+    {
+      "id": 30,
+      "title": "Data Scientist - Creator Product",
+      "position": "Data Science",
+      "company": "Twitch Interactive, Inc.",
+      "city": "San Francisco"
+    },
+    {
+      "id": 31,
+      "title": "BI Data Engineer/ Data Scientist",
+      "position": "Data Science",
+      "company": "Golden State Foods",
+      "city": "Irvine"
+    },
+    {
+      "id": 32,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "Verizon",
+      "city": "Corona del Mar"
+    },
+    {
+      "id": 33,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "ABB",
+      "city": "Irvine"
+    },
+    {
+      "id": 34,
+      "title": "Senior Data Scientist",
+      "position": "Data Science",
+      "company": "ABB",
+      "city": "Irvine"
+    },
+    {
+      "id": 35,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "Volt Workforce Solutions",
+      "city": "Irvine"
+    },
+    {
+      "id": 36,
+      "title": "Data Scientist",
+      "position": "Data Science",
+      "company": "Amazon.com Services LLC",
+      "city": "Irvine"
+    },
+    {
+      "id": 37,
+      "title": "User Experience (UX) Product Designer (Mid-Level / Remote)",
+      "position": "UI/UX Designer",
+      "company": "Mitchell International",
+      "city": "San Diego"
+    },
+    {
+      "id": 38,
+      "title": "UX/UI Designer",
+      "position": "UI/UX Designer",
+      "company": "Seer Interactive",
+      "city": "San Diego"
+    },
+    {
+      "id": 39,
+      "title": "Web Designer",
+      "position": "UI/UX Designer",
+      "company": "Road Runner Sports",
+      "city": "Bonita"
+    },
+    {
+      "id": 40,
+      "title": "Graphic Designer, Personal Creations",
+      "position": "UI/UX Designer",
+      "company": "PlanetArt",
+      "city": "San Diego"
+    },
+    {
+      "id": 41,
+      "title": "UX/UI Designer (Remote)",
+      "position": "UI/UX Designer",
+      "company": "Brafton",
+      "city": "San Diego"
+    },
+    {
+      "id": 42,
+      "title": "UI Designer",
+      "position": "UI/UX Designer",
+      "company": "Deloitte",
+      "city": "San Diego"
+    },
+    {
+      "id": 43,
+      "title": "UX Designer",
+      "position": "UI/UX Designer",
+      "company": "Indeed",
+      "city": "San Francisco"
+    },
+    {
+      "id": 44,
+      "title": "UX/UI Designer - Metaverse",
+      "position": "UI/UX Designer",
+      "company": "Confidential",
+      "city": "San Francisco"
+    },
+    {
+      "id": 45,
+      "title": "UI/UX Designer",
+      "position": "UI/UX Designer",
+      "company": "CyberCoders",
+      "city": "San Francisco"
+    },
+    {
+      "id": 46,
+      "title": "UI/UX Designer",
+      "position": "UI/UX Designer",
+      "company": "Michael Page",
+      "city": "San Francisco"
+    },
+    {
+      "id": 47,
+      "title": "UX Designer",
+      "position": "UI/UX Designer",
+      "company": "Insight Global",
+      "city": "San Francisco"
+    },
+    {
+      "id": 48,
+      "title": "Communications UX Designer (Social Impact Initiatives)",
+      "position": "UI/UX Designer",
+      "company": "Aquent",
+      "city": "San Francisco"
+    },
+    {
+      "id": 49,
+      "title": "Senior UI/UX Designer",
+      "position": "UI/UX Designer",
+      "company": "AiCard Inc.",
+      "city": "Irvine"
+    },
+    {
+      "id": 50,
+      "title": "UX/UI Digital Designer",
+      "position": "UI/UX Designer",
+      "company": "Behr",
+      "city": "Santa Ana"
+    },
+    {
+      "id": 51,
+      "title": "UI/UX Designer",
+      "position": "UI/UX Designer",
+      "company": "Realty ONE Group",
+      "city": "Laguna Niguel"
+    },
+    {
+      "id": 52,
+      "title": "UI UX Designer Consultant",
+      "position": "UI/UX Designer",
+      "company": "Deloitte",
+      "city": "Costa Mesa"
+    },
+    {
+      "id": 53,
+      "title": "UI/UX Designer",
+      "position": "UI/UX Designer",
+      "company": "Bandai Namco Entertainment America",
+      "city": "Irvine"
+    },
+    {
+      "id": 54,
+      "title": "UI / UX Designer, Blizzard.com",
+      "position": "UI/UX Designer",
+      "company": "Blizzard Entertainment",
+      "city": "Irvine"
+    }
+  ]
+}
