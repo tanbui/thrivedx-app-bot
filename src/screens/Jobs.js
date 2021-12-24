@@ -6,10 +6,6 @@ import { DataGrid } from "@mui/x-data-grid";
 // Load the full build.
 var _ = require("lodash");
 
-import Data from "../data/db";
-
-import useFetch from "../Api/useFetch";
-
 // https://github.com/sindresorhus/query-string
 const queryString = require("query-string");
 
@@ -55,7 +51,6 @@ const useStyles = makeStyles((theme) => ({
 const Jobs = (props) => {
   const [jobs, setJobs] = useState([]);
 
-  const [items, setItems] = useState([]);
   const [isPending, setIsPending] = useState(true);
   const [error, setError] = useState(null);
 
@@ -65,40 +60,8 @@ const Jobs = (props) => {
   console.log("path", location.pathname);
 
   React.useEffect(() => {
-    //filterJobs();
     getJobs();
   }, []);
-
-  const filterJobs = () => {
-    const parameters = queryString.parse(location.search);
-    var location = "";
-    var title = "";
-
-    "location" in parameters
-      ? (city = parameters["location"])
-      : console.log("no location key");
-    "title" in parameters
-      ? (position = parameters["title"])
-      : console.log("no title key");
-
-    console.log(parameters);
-
-    const filteredJob = props.data.jobs.filter((item) => {
-      if (location.length > 0 && title.length > 0) {
-        console.log(city, position);
-        return item.location === location && item.title === title;
-      } else if (location.length > 0) {
-        return item.location.match(location);
-      } else if (title.length > 0) {
-        return item.position.match(title);
-      } else {
-        return true;
-      }
-    });
-
-    setJobs(filteredJob);
-    console.log(filteredJob);
-  };
 
   const getJobs = () => {
     const parameters = queryString.parse(location.search);
@@ -153,11 +116,15 @@ const Jobs = (props) => {
 
   return (
     <div className={classes.root}>
-      <Paper className={classes.content}>
-        <div style={{ height: 650, width: "100%" }}>
-          <DataGrid rows={jobs} columns={columns} pageSize={10} />
-        </div>
-      </Paper>
+      {error && <div>{error}</div>}
+      {isPending && <div>Loading...</div>}
+      {jobs && (
+        <Paper className={classes.content}>
+          <div style={{ height: 650, width: "100%" }}>
+            <DataGrid rows={jobs} columns={columns} pageSize={10} />
+          </div>
+        </Paper>
+      )}
     </div>
   );
 };
