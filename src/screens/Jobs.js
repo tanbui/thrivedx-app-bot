@@ -14,7 +14,7 @@ const columns = [
   {
     field: "title",
     headerName: "Title",
-    width: 300,
+    width: 200,
     editable: true
   },
   {
@@ -23,16 +23,16 @@ const columns = [
     width: 150,
     editable: true
   },
-  {
-    field: "company",
-    headerName: "Company",
-    width: 200,
-    editable: true
-  },
+  // {
+  //   field: "company",
+  //   headerName: "Company",
+  //   width: 200,
+  //   editable: true
+  // },
   {
     field: "description",
     headerName: "Description",
-    width: 200,
+    width: 500,
     editable: true
   }
 ];

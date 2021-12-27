@@ -44,8 +44,8 @@ const Home = () => {
           </Box>
         </div>
         <img
-          width="1320"
-          height="762"
+          width="800"
+          height="400"
           src="https://thrivedx.com/wp-content/uploads/2021/10/AdobeStock_146025373-1.png"
           class="attachment-full size-full"
           alt=""
